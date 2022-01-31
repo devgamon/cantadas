@@ -28,3 +28,8 @@ Os requisitos para rodar a aplicação são:
 	Feito por <a href="https://github.com/iamthepoe" target="_blank">Luca Poe</a> e <a href="https://github.com/devgamon" target="_blank">Gabriel Gamon</a>
 	&#128514; &#129309; &#129398;
 </div>
+	
+<div align="center">
+	Link do Repositório Original https://github.com/iamthepoe/cantadas
+</div>
+	
