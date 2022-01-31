@@ -1,0 +1,11 @@
+{
+  "name": "cantadas",
+  "version": "1.0.0",
+  "description": "um site que gera cantadas cafonas de programação",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gamon and Poe",
+  "license": "ISC"
+}

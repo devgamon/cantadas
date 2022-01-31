@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala:wght@400;700&display=swap');
+
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;	
+	font-family: 'Sarala', sans-serif;
+}
+
+body{
+	display: -webkit-box;
+  	display: -ms-flexbox;
+  	display: flex;
+  	-webkit-box-pack: center;
+    -ms-flex-pack: center;
+   	justify-content: center;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+	width: 100%;
+	height: 100vh;
+	background: linear-gradient(68.15deg, #755ea6 16.62%, #120531 85.61%);
+}
+
+.cantada-container {
+	display: -webkit-box;
+ 	display: -ms-flexbox;
+  	display: flex;
+  	-webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  	-webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+	width: 70%;
+	height: 70vh;
+	background: rgba(255, 255, 255, 0.1);
+  	backdrop-filter: blur(10px);
+  	-webkit-backdrop-filter: blur(10px);
+}
+
+h1 {
+  	color: white;
+  	font-size: 20px;
+ 	text-align: center;
+}
